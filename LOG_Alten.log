@@ -1,0 +1,7 @@
+2024-12-01 21:21:05,638: INFO: screenshot taken: screenshots\screenshot_20241201_212105_454552.png
+2024-12-01 21:21:05,638: INFO: Webdriver is open and maximized.
+2024-12-01 21:21:08,292: INFO: https://www.alten.es/page loaded successfully.
+2024-12-01 21:21:08,293: INFO: Expected categories in home page: ['HOME', 'SECTORES', 'SERVICIOS', 'UNETE A NOSOTROS', 'NOTICIAS', 'CONTACTO']
+2024-12-01 21:21:13,390: INFO: Current categories in home page: ['HOME', 'SECTORES', 'SERVICIOS', 'UNETE A NOSOTROS', 'NOTICIAS', 'CONTACTO']
+2024-12-01 21:21:18,392: INFO: Screenshot saved at: screenshots\screenshot_20241201_212105_454552.png
+2024-12-01 21:21:18,392: INFO: Assertion pass: all the expected categories are present at the navigation bar
